@@ -1,2 +1,180 @@
-# Sentiment-Analysis-API
-📈 Sentiment Analysis API: A web API that analyzes text and returns its sentiment (positive, negative, neutral). 🧠 Built with a pre-trained NLP model. 📊
+- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+#- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+S- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+e- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+n- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+t- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+i- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+m- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+e- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+n- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+t- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+-- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+A- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+n- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+a- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+l- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+y- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+s- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+i- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+s- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+-- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+A- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+P- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+I- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+
+- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+📈- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+S- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+e- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+n- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+t- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+i- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+m- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+e- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+n- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+t- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+A- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+n- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+a- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+l- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+y- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+s- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+i- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+s- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+A- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+P- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+I- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+:- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+A- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+w- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+e- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+b- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+A- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+P- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+I- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+t- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+h- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+a- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+t- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+a- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+n- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+a- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+l- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+y- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+z- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+e- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+s- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+t- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+e- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+x- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+t- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+a- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+n- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+d- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+r- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+e- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+t- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+u- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+r- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+n- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+s- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+i- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+t- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+s- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+s- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+e- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+n- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+t- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+i- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+m- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+e- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+n- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+t- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+(- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+p- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+o- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+s- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+i- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+t- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+i- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+v- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+e- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+,- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+n- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+e- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+g- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+a- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+t- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+i- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+v- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+e- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+,- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+n- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+e- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+u- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+t- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+r- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+a- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+l- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+)- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+.- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+🧠- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+B- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+u- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+i- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+l- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+t- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+w- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+i- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+t- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+h- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+a- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+p- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+r- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+e- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+-- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+t- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+r- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+a- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+i- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+n- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+e- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+d- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+N- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+L- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+P- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+m- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+o- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+d- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+e- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+l- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+.- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+ - Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+📊- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
+
+- Kontribusi oleh @0x00abieharyatmo pada 2025-10-01 21:02:47 UTC
